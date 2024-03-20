@@ -1,0 +1,13 @@
+{
+  "name": "proyecto_api_files",
+  "version": "1.0.0",
+  "description": "API REST Files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Andrea Iñigo Lara",
+  "license": "ISC"
+}
